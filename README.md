@@ -1,11 +1,11 @@
 # interview-questions
 
-##Junior
+## Junior
 
-##Associate
+## Associate
 
-##Analyst
+## Analyst
 
-##Senior
+## Senior
 
-##Principle
+## Principle
