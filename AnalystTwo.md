@@ -14,6 +14,6 @@ What is the difference between an Array, ArrayList, and List<T>: Arrays are stat
 
 How would I pass a value type by reference: Use the ref keyword
 
-What is the purpose of the StringBuiler class: Use StringBuilder when you need to concat or work with lot of strings, it's has better performance that raw strings
+What is the purpose of the StringBuilder class: Use StringBuilder when you need to concat or work with lot of strings, it's has better performance that raw strings
 
 How do optional method parameters work: You specify a default value for a method that can be overridden by calling the method normally
